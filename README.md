@@ -1,16 +1,26 @@
-## Hi there 👋
+## 📜 License: GNU GPL v2
 
-<!--
-**deepseekadmin/deepseekadmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤝 Our Philosophy:
+- **Take it** - It's free, use it anywhere
+- **Change it** - Modify, adapt, improve
+- **Share it** - Distribute to friends, colleagues, enemies
+- **Respect it** - Keep our names in the code, that's all we ask
+- **Support it** - Donate if it saves you time/money (optional but appreciated)
 
-Here are some ideas to get you started:
+### ❤️ What GPL v2 means for you:
+✅ **Free forever** - No hidden costs, ever  
+✅ **Open source** - See every line of code  
+✅ **Modifiable** - Hack it, tweak it, make it yours  
+✅ **Distributable** - Share with the world  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚫 What GPL v2 prevents:
+❌ Removing author credits (be cool, give credit)  
+❌ Selling as proprietary software (open your changes if you sell)  
+❌ Claiming you wrote it (we worked hard, acknowledge it)
+
+### 💰 Donations (Totally optional but keeps us motivated):
+If DeepSeek Admin saves you time or makes your life easier:
+- CloudTips: https://pay.cloudtips.ru/p/74d49304
+- Other donation methods in profile
+
+**Remember:** Every donation = more features, less bugs, happier developers! 🚀
